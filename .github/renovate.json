@@ -37,7 +37,7 @@
     },
     {
       "groupName": "unified packages",
-      "packagePatterns": ["^unified$", "^unist-", "^hast-", "^rehype-", "^remark-", "^hastscript$"]
+      "packagePatterns": ["^unified$", "^unist", "^hast", "^rehype", "^remark", "^hastscript$"]
     }
   ],
   "prConcurrentLimit": 2
