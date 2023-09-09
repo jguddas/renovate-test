@@ -27,5 +27,5 @@
       "groupName": "changesets"
     }
   ],
-  "prConcurrentLimit": 1
+  "prConcurrentLimit": 2
 }
