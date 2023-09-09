@@ -20,11 +20,15 @@
     },
     {
       "matchPackagePrefixes": ["@typescript-eslint/", "@commitlint/", "eslint", "prettier"],
-      "groupName": "linting"
+      "groupName": "linting packages"
     },
     {
       "matchPackagePrefixes": ["@changesets/"],
-      "groupName": "changesets"
+      "groupName": "changesets monorepo"
+    },
+    {
+      "groupName": "unified packages",
+      "packagePatterns": ["^unified$", "^unist-", "^hast-", "^rehype-", "^remark-", "^hastscript$"]
     }
   ],
   "prConcurrentLimit": 2
