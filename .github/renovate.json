@@ -15,11 +15,16 @@
   "automerge": true,
   "packageRules": [
     {
-      "matchPackagePatterns": ["@react-aria", "@react-types", "@react-stately"],
+      "matchPackagePrefixes": ["@react-aria/", "@react-types/", "@react-stately/"],
       "groupName": "react-aria monorepo"
     },
     {
-      "matchPackagePrefixes": ["@typescript-eslint/", "eslint", "prettier"]
+      "matchPackagePrefixes": ["@typescript-eslint/", "@commitlint/", "eslint", "prettier"],
+      "groupName": "linting"
+    },
+    {
+      "matchPackagePrefixes": ["@changesets/"],
+      "groupName": "changesets"
     }
   ],
   "prConcurrentLimit": 2
