@@ -16,7 +16,7 @@
   "packageRules": [
     {
       "extends": "packages:jsTest",
-      "groupName": "JS test packages"
+      "groupName": "testing packages"
     },
     {
       "matchPackagePrefixes": ["@react-aria/", "@react-types/", "@react-stately/"],
