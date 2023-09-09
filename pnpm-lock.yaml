@@ -13,25 +13,25 @@ importers:
   .:
     devDependencies:
       '@babel/cli':
-        specifier: ^7.14.5
+        specifier: 7.22.15
         version: 7.22.15(@babel/core@7.22.17)
       '@babel/core':
-        specifier: ^7.16.7
+        specifier: 7.22.17
         version: 7.22.17
       '@babel/plugin-proposal-object-rest-spread':
-        specifier: ^7.15.6
+        specifier: 7.20.7
         version: 7.20.7(@babel/core@7.22.17)
       '@babel/plugin-transform-runtime':
-        specifier: ^7.14.5
+        specifier: 7.22.15
         version: 7.22.15(@babel/core@7.22.17)
       '@babel/preset-env':
-        specifier: ^7.14.5
+        specifier: 7.22.15
         version: 7.22.15(@babel/core@7.22.17)
       '@babel/preset-react':
-        specifier: ^7.14.5
+        specifier: 7.22.15
         version: 7.22.15(@babel/core@7.22.17)
       '@babel/preset-typescript':
-        specifier: ^7.14.5
+        specifier: 7.22.15
         version: 7.22.15(@babel/core@7.22.17)
       '@changesets/changelog-github':
         specifier: 0.4.6
@@ -52,7 +52,7 @@ importers:
         specifier: ^17.2.0
         version: 17.7.0
       '@react-bootstrap/babel-preset':
-        specifier: ^2.1.0
+        specifier: 2.2.0
         version: 2.2.0
       '@react-types/link':
         specifier: ^3.4.4
@@ -61,37 +61,37 @@ importers:
         specifier: ^3.19.0
         version: 3.20.0(react@18.2.0)
       '@storybook/react':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(react-dom@18.2.0)(react@18.2.0)(typescript@4.9.5)
       '@swc-node/jest':
-        specifier: ^1.5.2
+        specifier: 1.6.7
         version: 1.6.7(@swc/core@1.3.83)(typescript@4.9.5)
       '@swc/core':
-        specifier: ^1.3.35
+        specifier: 1.3.83
         version: 1.3.83
       '@swc/jest':
-        specifier: ^0.2.24
+        specifier: 0.2.29
         version: 0.2.29(@swc/core@1.3.83)
       '@testing-library/dom':
-        specifier: ^8.1.0
+        specifier: 8.20.1
         version: 8.20.1
       '@testing-library/jest-dom':
-        specifier: ^5.16.4
+        specifier: 5.17.0
         version: 5.17.0
       '@testing-library/react':
-        specifier: ^14.0.0
+        specifier: 14.0.0
         version: 14.0.0(react-dom@18.2.0)(react@18.2.0)
       '@testing-library/react-hooks':
-        specifier: ^8.0.1
+        specifier: 8.0.1
         version: 8.0.1(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       '@testing-library/user-event':
-        specifier: ^14.4.3
+        specifier: 14.4.3
         version: 14.4.3(@testing-library/dom@8.20.1)
       '@types/jest':
-        specifier: ^28.1.1
+        specifier: 28.1.8
         version: 28.1.8
       '@types/node':
-        specifier: ^15.12.4
+        specifier: 15.14.9
         version: 15.14.9
       '@types/react':
         specifier: 18.2.8
@@ -100,7 +100,7 @@ importers:
         specifier: 18.2.4
         version: 18.2.4
       '@types/shelljs':
-        specifier: ^0.8.9
+        specifier: 0.8.12
         version: 0.8.12
       '@types/testing-library__jest-dom':
         specifier: 5.14.5
@@ -112,13 +112,13 @@ importers:
         specifier: ^5.42.0
         version: 5.62.0(eslint@7.32.0)(typescript@4.9.5)
       chalk:
-        specifier: ^4.1.2
+        specifier: 4.1.2
         version: 4.1.2
       commitlint-plugin-function-rules:
-        specifier: ^1.7.1
+        specifier: 1.7.1
         version: 1.7.1(@commitlint/lint@17.7.0)
       concurrently:
-        specifier: ^7.6.0
+        specifier: 7.6.0
         version: 7.6.0
       eslint:
         specifier: ^7.29.0
@@ -172,52 +172,52 @@ importers:
         specifier: ^2.0.0
         version: 2.0.0(@typescript-eslint/eslint-plugin@5.62.0)(eslint@7.32.0)
       execa:
-        specifier: ^5.1.1
+        specifier: 5.1.1
         version: 5.1.1
       find-up:
-        specifier: ^6.3.0
+        specifier: 6.3.0
         version: 6.3.0
       fs-extra:
-        specifier: ^10.0.0
+        specifier: 10.1.0
         version: 10.1.0
       glob:
-        specifier: ^8.0.3
+        specifier: 8.1.0
         version: 8.1.0
       graceful-fs:
-        specifier: ^4.2.6
+        specifier: 4.2.11
         version: 4.2.11
       gray-matter:
-        specifier: ^4.0.3
+        specifier: 4.0.3
         version: 4.0.3
       husky:
-        specifier: ^8.0.1
+        specifier: 8.0.3
         version: 8.0.3
       intl-messageformat:
-        specifier: ^10.1.0
+        specifier: 10.5.1
         version: 10.5.1
       jest:
-        specifier: ^28.1.1
+        specifier: 28.1.3
         version: 28.1.3(@types/node@15.14.9)(ts-node@10.9.1)
       jest-environment-jsdom:
-        specifier: ^28.1.1
+        specifier: 28.1.3
         version: 28.1.3
       jest-watch-typeahead:
         specifier: 1.1.0
         version: 1.1.0(jest@28.1.3)
       lint-staged:
-        specifier: ^13.0.3
+        specifier: 13.3.0
         version: 13.3.0
       npm-check-updates:
-        specifier: ^16.10.18
+        specifier: 16.13.3
         version: 16.13.3
       npm-run-all:
-        specifier: ^4.1.5
+        specifier: 4.1.5
         version: 4.1.5
       p-iteration:
-        specifier: ^1.1.8
+        specifier: 1.1.8
         version: 1.1.8
       parcel:
-        specifier: ^2.3.1
+        specifier: 2.9.3
         version: 2.9.3(typescript@4.9.5)
       plop:
         specifier: 3.1.1
@@ -238,43 +238,43 @@ importers:
         specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
       rimraf:
-        specifier: ^3.0.2
+        specifier: 3.0.2
         version: 3.0.2
       shelljs:
-        specifier: ^0.8.4
+        specifier: 0.8.5
         version: 0.8.5
       tsup:
         specifier: 6.4.0
         version: 6.4.0(@swc/core@1.3.83)(ts-node@10.9.1)(typescript@4.9.5)
       tsx:
-        specifier: ^3.8.2
+        specifier: 3.12.8
         version: 3.12.8
       turbo:
         specifier: 1.6.3
         version: 1.6.3
       typescript:
-        specifier: ^4.9.5
+        specifier: 4.9.5
         version: 4.9.5
       webpack:
-        specifier: ^5.53.0
+        specifier: 5.88.2
         version: 5.88.2(@swc/core@1.3.83)(esbuild@0.15.18)(webpack-cli@3.3.12)
       webpack-bundle-analyzer:
-        specifier: ^4.4.2
+        specifier: 4.9.1
         version: 4.9.1
       webpack-cli:
-        specifier: ^3.3.11
+        specifier: 3.3.12
         version: 3.3.12(webpack@5.88.2)
       webpack-merge:
-        specifier: ^5.8.0
+        specifier: 5.9.0
         version: 5.9.0
 
   apps/docs:
     dependencies:
       '@codesandbox/sandpack-react':
-        specifier: ^2.6.4
+        specifier: 2.6.9
         version: 2.6.9(@lezer/common@1.0.4)(react-dom@18.2.0)(react@18.2.0)
       '@mapbox/rehype-prism':
-        specifier: ^0.6.0
+        specifier: 0.6.0
         version: 0.6.0
       '@nextui-org/aria-utils':
         specifier: workspace:*
@@ -352,49 +352,49 @@ importers:
         specifier: ^3.7.1
         version: 3.7.2(react@18.2.0)
       '@rehooks/local-storage':
-        specifier: ^2.4.4
+        specifier: 2.4.5
         version: 2.4.5(react@18.2.0)
       '@vercel/analytics':
-        specifier: ^1.0.1
+        specifier: 1.0.2
         version: 1.0.2
       canvas-confetti:
-        specifier: ^1.4.0
+        specifier: 1.6.0
         version: 1.6.0
       cmdk:
-        specifier: ^0.2.0
+        specifier: 0.2.0
         version: 0.2.0(@types/react@18.2.21)(react-dom@18.2.0)(react@18.2.0)
       color2k:
-        specifier: ^2.0.2
+        specifier: 2.0.2
         version: 2.0.2
       contentlayer:
-        specifier: ^0.3.4
+        specifier: 0.3.4
         version: 0.3.4(esbuild@0.19.2)
       date-fns:
-        specifier: ^2.30.0
+        specifier: 2.30.0
         version: 2.30.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       github-slugger:
-        specifier: ^2.0.0
+        specifier: 2.0.0
         version: 2.0.0
       gray-matter:
-        specifier: ^4.0.3
+        specifier: 4.0.3
         version: 4.0.3
       hast-util-to-html:
         specifier: 7.1.2
         version: 7.1.2
       lodash:
-        specifier: ^4.17.21
+        specifier: 4.17.21
         version: 4.17.21
       marked:
-        specifier: ^5.1.0
+        specifier: 5.1.2
         version: 5.1.2
       match-sorter:
-        specifier: ^6.3.1
+        specifier: 6.3.1
         version: 6.3.1
       mini-svg-data-uri:
-        specifier: ^1.4.3
+        specifier: 1.4.4
         version: 1.4.4
       mitt:
         specifier: 3.0.0
@@ -403,22 +403,22 @@ importers:
         specifier: 13.4.12
         version: 13.4.12(@babel/core@7.22.17)(@opentelemetry/api@1.4.1)(react-dom@18.2.0)(react@18.2.0)
       next-contentlayer:
-        specifier: ^0.3.4
+        specifier: 0.3.4
         version: 0.3.4(contentlayer@0.3.4)(esbuild@0.19.2)(next@13.4.12)(react-dom@18.2.0)(react@18.2.0)
       next-themes:
-        specifier: ^0.2.1
+        specifier: 0.2.1
         version: 0.2.1(next@13.4.12)(react-dom@18.2.0)(react@18.2.0)
       nprogress:
-        specifier: ^0.2.0
+        specifier: 0.2.0
         version: 0.2.0
       parse-numeric-range:
         specifier: 1.2.0
         version: 1.2.0
       prism-react-renderer:
-        specifier: ^1.2.1
+        specifier: 1.3.5
         version: 1.3.5(react@18.2.0)
       querystring:
-        specifier: ^0.2.1
+        specifier: 0.2.1
         version: 0.2.1
       react:
         specifier: ^18.2.0
@@ -427,16 +427,16 @@ importers:
         specifier: ^18.2.0
         version: 18.2.0(react@18.2.0)
       react-icons:
-        specifier: ^4.10.1
+        specifier: 4.11.0
         version: 4.11.0(react@18.2.0)
       react-live:
-        specifier: ^2.3.0
+        specifier: 2.4.1
         version: 2.4.1(react-dom@18.2.0)(react@18.2.0)
       react-multi-ref:
-        specifier: ^1.0.1
+        specifier: 1.0.1
         version: 1.0.1
       react-wrap-balancer:
-        specifier: ^1.0.0
+        specifier: 1.1.0
         version: 1.1.0(react@18.2.0)
       refractor:
         specifier: 3.3.1
@@ -448,86 +448,86 @@ importers:
         specifier: 7.0.1
         version: 7.0.1
       rehype-pretty-code:
-        specifier: ^0.10.0
+        specifier: 0.10.1
         version: 0.10.1(shiki@0.14.4)
       rehype-slug:
-        specifier: ^5.1.0
+        specifier: 5.1.0
         version: 5.1.0
       remark:
-        specifier: ^14.0.3
+        specifier: 14.0.3
         version: 14.0.3
       remark-autolink-headings:
-        specifier: ^6.0.1
+        specifier: 6.1.0
         version: 6.1.0
       remark-gfm:
-        specifier: ^3.0.1
+        specifier: 3.0.1
         version: 3.0.1
       remark-slug:
-        specifier: ^6.0.0
+        specifier: 6.1.0
         version: 6.1.0
       rss:
-        specifier: ^1.2.2
+        specifier: 1.2.2
         version: 1.2.2
       scroll-into-view-if-needed:
         specifier: 3.0.10
         version: 3.0.10
       sharp:
-        specifier: ^0.32.1
+        specifier: 0.32.5
         version: 0.32.5
       shelljs:
-        specifier: ^0.8.4
+        specifier: 0.8.5
         version: 0.8.5
       swr:
-        specifier: ^2.2.1
+        specifier: 2.2.2
         version: 2.2.2(react@18.2.0)
       tailwind-variants:
-        specifier: ^0.1.14
+        specifier: 0.1.14
         version: 0.1.14(tailwindcss@3.3.3)
       unified:
-        specifier: ^9.2.2
+        specifier: 9.2.2
         version: 9.2.2
       unist-util-visit:
-        specifier: ^4.1.2
+        specifier: 4.1.2
         version: 4.1.2
       zustand:
-        specifier: ^4.3.8
+        specifier: 4.4.1
         version: 4.4.1(@types/react@18.2.21)(react@18.2.0)
     devDependencies:
       '@docusaurus/utils':
         specifier: 2.0.0-beta.3
         version: 2.0.0-beta.3(@swc/core@1.3.83)(esbuild@0.19.2)(webpack-cli@3.3.12)
       '@next/bundle-analyzer':
-        specifier: ^13.4.6
+        specifier: 13.4.19
         version: 13.4.19
       '@next/env':
-        specifier: ^13.4.12
+        specifier: 13.4.19
         version: 13.4.19
       '@react-types/shared':
         specifier: ^3.19.0
         version: 3.20.0(react@18.2.0)
       '@tailwindcss/typography':
-        specifier: ^0.5.9
+        specifier: 0.5.10
         version: 0.5.10(tailwindcss@3.3.3)
       '@types/canvas-confetti':
-        specifier: ^1.4.2
+        specifier: 1.6.1
         version: 1.6.1
       '@types/lodash':
-        specifier: ^4.14.194
+        specifier: 4.14.198
         version: 4.14.198
       '@types/marked':
-        specifier: ^5.0.0
+        specifier: 5.0.1
         version: 5.0.1
       '@types/mdx':
-        specifier: ^2.0.5
+        specifier: 2.0.7
         version: 2.0.7
       '@types/node':
         specifier: 20.2.5
         version: 20.2.5
       '@types/nprogress':
-        specifier: ^0.2.0
+        specifier: 0.2.0
         version: 0.2.0
       '@types/parse-numeric-range':
-        specifier: ^0.0.1
+        specifier: 0.0.1
         version: 0.0.1
       '@types/react':
         specifier: 18.2.21
@@ -536,55 +536,55 @@ importers:
         specifier: 18.2.7
         version: 18.2.7
       '@types/refractor':
-        specifier: ^3.0.2
+        specifier: 3.0.2
         version: 3.0.2
       '@types/rss':
-        specifier: ^0.0.30
+        specifier: 0.0.30
         version: 0.0.30
       '@types/shelljs':
-        specifier: ^0.8.9
+        specifier: 0.8.12
         version: 0.8.12
       '@types/uuid':
-        specifier: ^8.3.1
+        specifier: 8.3.4
         version: 8.3.4
       algoliasearch:
-        specifier: ^4.10.3
+        specifier: 4.19.1
         version: 4.19.1
       autoprefixer:
-        specifier: ^10.4.14
+        specifier: 10.4.15
         version: 10.4.15(postcss@8.4.29)
       dotenv:
-        specifier: ^16.0.1
+        specifier: 16.3.1
         version: 16.3.1
       eslint-config-next:
         specifier: ^11.0.0
         version: 11.1.4(eslint@7.32.0)(next@13.4.12)(typescript@4.9.5)
       markdown-toc:
-        specifier: ^1.2.0
+        specifier: 1.2.0
         version: 1.2.0
       next-sitemap:
-        specifier: ^4.1.8
+        specifier: 4.2.3
         version: 4.2.3(next@13.4.12)
       node-fetch:
-        specifier: ^3.2.10
+        specifier: 3.3.2
         version: 3.3.2
       postcss:
-        specifier: ^8.4.21
+        specifier: 8.4.29
         version: 8.4.29
       prettier:
         specifier: ^2.7.1
         version: 2.8.8
       tailwindcss:
-        specifier: ^3.2.7
+        specifier: 3.3.3
         version: 3.3.3(ts-node@10.9.1)
       tsx:
-        specifier: ^3.8.2
+        specifier: 3.12.8
         version: 3.12.8
       typescript:
-        specifier: ^4.9.5
+        specifier: 4.9.5
         version: 4.9.5
       uuid:
-        specifier: ^8.3.2
+        specifier: 8.3.2
         version: 8.3.2
 
   packages/components/accordion:
@@ -648,7 +648,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -1035,7 +1035,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -1105,7 +1105,7 @@ importers:
         specifier: ^3.8.0
         version: 3.8.0(react@18.2.0)
       react-textarea-autosize:
-        specifier: ^8.5.2
+        specifier: 8.5.3
         version: 8.5.3(@types/react@18.2.8)(react@18.2.0)
     devDependencies:
       clean-package:
@@ -1344,7 +1344,7 @@ importers:
         specifier: ^3.8.2
         version: 3.8.2(react@18.2.0)
       react-remove-scroll:
-        specifier: ^2.5.6
+        specifier: 2.5.6
         version: 2.5.6(@types/react@18.2.8)(react@18.2.0)
     devDependencies:
       '@nextui-org/button':
@@ -1363,7 +1363,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -1417,7 +1417,7 @@ importers:
         specifier: '>=4.0.0'
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react-remove-scroll:
-        specifier: ^2.5.6
+        specifier: 2.5.6
         version: 2.5.6(@types/react@18.2.8)(react@18.2.0)
     devDependencies:
       '@nextui-org/avatar':
@@ -1539,7 +1539,7 @@ importers:
         specifier: ^3.8.2
         version: 3.8.2(react@18.2.0)
       react-remove-scroll:
-        specifier: ^2.5.6
+        specifier: 2.5.6
         version: 2.5.6(@types/react@18.2.8)(react@18.2.0)
     devDependencies:
       '@nextui-org/card':
@@ -1552,7 +1552,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -1669,7 +1669,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -1776,7 +1776,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -2019,7 +2019,7 @@ importers:
         specifier: ^18.2.0
         version: 18.2.0
       swr:
-        specifier: ^2.2.1
+        specifier: 2.2.2
         version: 2.2.2(react@18.2.0)
 
   packages/components/tabs:
@@ -2092,7 +2092,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -2150,7 +2150,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -2333,10 +2333,10 @@ importers:
   packages/core/system-rsc:
     dependencies:
       clsx:
-        specifier: ^1.2.1
+        specifier: 1.2.1
         version: 1.2.1
       tailwind-variants:
-        specifier: ^0.1.14
+        specifier: 0.1.14
         version: 0.1.14(tailwindcss@3.3.3)
     devDependencies:
       '@nextui-org/react-utils':
@@ -2355,58 +2355,58 @@ importers:
   packages/core/theme:
     dependencies:
       '@types/color':
-        specifier: ^3.0.3
+        specifier: 3.0.4
         version: 3.0.4
       '@types/flat':
-        specifier: ^5.0.2
+        specifier: 5.0.2
         version: 5.0.2
       '@types/lodash.foreach':
-        specifier: ^4.5.7
+        specifier: 4.5.7
         version: 4.5.7
       '@types/lodash.get':
-        specifier: ^4.4.7
+        specifier: 4.4.7
         version: 4.4.7
       '@types/lodash.kebabcase':
-        specifier: ^4.1.7
+        specifier: 4.1.7
         version: 4.1.7
       '@types/lodash.mapkeys':
-        specifier: ^4.6.7
+        specifier: 4.6.7
         version: 4.6.7
       '@types/lodash.omit':
-        specifier: ^4.5.7
+        specifier: 4.5.7
         version: 4.5.7
       color:
-        specifier: ^4.2.3
+        specifier: 4.2.3
         version: 4.2.3
       color2k:
-        specifier: ^2.0.2
+        specifier: 2.0.2
         version: 2.0.2
       deepmerge:
         specifier: 4.3.1
         version: 4.3.1
       flat:
-        specifier: ^5.0.2
+        specifier: 5.0.2
         version: 5.0.2
       lodash.foreach:
-        specifier: ^4.5.0
+        specifier: 4.5.0
         version: 4.5.0
       lodash.get:
-        specifier: ^4.4.2
+        specifier: 4.4.2
         version: 4.4.2
       lodash.kebabcase:
-        specifier: ^4.1.1
+        specifier: 4.1.1
         version: 4.1.1
       lodash.mapkeys:
-        specifier: ^4.6.0
+        specifier: 4.6.0
         version: 4.6.0
       lodash.omit:
-        specifier: ^4.5.0
+        specifier: 4.5.0
         version: 4.5.0
       tailwind-variants:
-        specifier: ^0.1.14
+        specifier: 0.1.14
         version: 0.1.14(tailwindcss@3.3.3)
       tailwindcss:
-        specifier: ^3.2.7
+        specifier: 3.3.3
         version: 3.3.3(ts-node@10.9.1)
     devDependencies:
       clean-package:
@@ -2647,10 +2647,10 @@ importers:
   packages/hooks/use-infinite-scroll:
     dependencies:
       '@types/lodash.debounce':
-        specifier: ^4.0.7
+        specifier: 4.0.7
         version: 4.0.7
       lodash.debounce:
-        specifier: ^4.0.8
+        specifier: 4.0.8
         version: 4.0.8
     devDependencies:
       clean-package:
@@ -2781,46 +2781,46 @@ importers:
         version: 18.2.0(react@18.2.0)
     devDependencies:
       '@storybook/addon-a11y':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(@types/react-dom@18.2.4)(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       '@storybook/addon-actions':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(@types/react-dom@18.2.4)(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       '@storybook/addon-docs':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(@types/react-dom@18.2.4)(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       '@storybook/addon-essentials':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(@types/react-dom@18.2.4)(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       '@storybook/addon-links':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(react-dom@18.2.0)(react@18.2.0)
       '@storybook/builder-vite':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(typescript@4.9.5)(vite@4.4.9)
       '@storybook/cli':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0
       '@storybook/react':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(react-dom@18.2.0)(react@18.2.0)(typescript@4.9.5)
       '@storybook/react-vite':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(react-dom@18.2.0)(react@18.2.0)(typescript@4.9.5)(vite@4.4.9)
       '@storybook/theming':
-        specifier: ^7.1.1
+        specifier: 7.4.0
         version: 7.4.0(react-dom@18.2.0)(react@18.2.0)
       autoprefixer:
-        specifier: ^10.4.13
+        specifier: 10.4.15
         version: 10.4.15(postcss@8.4.29)
       storybook-dark-mode:
-        specifier: ^3.0.0
+        specifier: 3.0.1
         version: 3.0.1(@types/react-dom@18.2.4)(@types/react@18.2.8)(react-dom@18.2.0)(react@18.2.0)
       tailwindcss:
-        specifier: ^3.2.7
+        specifier: 3.3.3
         version: 3.3.3(ts-node@10.9.1)
       vite:
-        specifier: ^4.4.7
+        specifier: 4.4.9
         version: 4.4.9(@types/node@15.14.9)
 
   packages/utilities/aria-utils:
@@ -2861,7 +2861,7 @@ importers:
         specifier: 2.2.0
         version: 2.2.0
       framer-motion:
-        specifier: ^10.15.1
+        specifier: 10.16.4
         version: 10.16.4(react-dom@18.2.0)(react@18.2.0)
       react:
         specifier: ^18.2.0
@@ -5905,7 +5905,7 @@ packages:
     engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
     dependencies:
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       chalk: 4.1.2
       jest-message-util: 28.1.3
       jest-util: 28.1.3
@@ -5926,14 +5926,14 @@ packages:
       '@jest/test-result': 28.1.3
       '@jest/transform': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       ansi-escapes: 4.3.2
       chalk: 4.1.2
       ci-info: 3.8.0
       exit: 0.1.2
       graceful-fs: 4.2.11
       jest-changed-files: 28.1.3
-      jest-config: 28.1.3(@types/node@15.14.9)(ts-node@10.9.1)
+      jest-config: 28.1.3(@types/node@20.2.5)(ts-node@10.9.1)
       jest-haste-map: 28.1.3
       jest-message-util: 28.1.3
       jest-regex-util: 28.0.2
@@ -5968,7 +5968,7 @@ packages:
     dependencies:
       '@jest/fake-timers': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       jest-mock: 28.1.3
     dev: true
 
@@ -5995,7 +5995,7 @@ packages:
     dependencies:
       '@jest/types': 28.1.3
       '@sinonjs/fake-timers': 9.1.2
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       jest-message-util: 28.1.3
       jest-mock: 28.1.3
       jest-util: 28.1.3
@@ -6027,7 +6027,7 @@ packages:
       '@jest/transform': 28.1.3
       '@jest/types': 28.1.3
       '@jridgewell/trace-mapping': 0.3.19
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       chalk: 4.1.2
       collect-v8-coverage: 1.0.2
       exit: 0.1.2
@@ -6145,7 +6145,7 @@ packages:
     dependencies:
       '@types/istanbul-lib-coverage': 2.0.4
       '@types/istanbul-reports': 3.0.1
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       '@types/yargs': 16.0.5
       chalk: 4.1.2
     dev: true
@@ -6157,7 +6157,7 @@ packages:
       '@jest/schemas': 28.1.3
       '@types/istanbul-lib-coverage': 2.0.4
       '@types/istanbul-reports': 3.0.1
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       '@types/yargs': 17.0.24
       chalk: 4.1.2
     dev: true
@@ -11066,7 +11066,7 @@ packages:
   /@types/jsdom@16.2.15:
     resolution: {integrity: sha512-nwF87yjBKuX/roqGYerZZM0Nv1pZDMAT5YhOHYeM/72Fic+VEqJh4nyoqoapzJnW3pUlfxPY5FhgsJtM+dRnQQ==}
     dependencies:
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       '@types/parse5': 6.0.3
       '@types/tough-cookie': 4.0.2
     dev: true
@@ -11083,7 +11083,7 @@ packages:
     resolution: {integrity: sha512-GUUFIP1wHuB6DEg65hkgJdqqmEeK5Vj+Wy5Tza26F9FuaHhtm4BxN00N3PhVUdCcryY9pn3SkcXGGQDLBisAPQ==}
     dependencies:
       '@types/fined': 1.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
     dev: true
 
   /@types/lodash.debounce@4.0.7:
@@ -11165,7 +11165,7 @@ packages:
   /@types/node-fetch@2.6.4:
     resolution: {integrity: sha512-1ZX9fcN4Rvkvgv4E6PAY5WXUFWFcRWxZa3EW83UjycOB9ljJCedb2CupIP4RZMEwF/M3eTcCihbBRgwtGbg5Rg==}
     dependencies:
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       form-data: 3.0.1
     dev: true
 
@@ -11323,7 +11323,7 @@ packages:
   /@types/through@0.0.30:
     resolution: {integrity: sha512-FvnCJljyxhPM3gkRgWmxmDZyAQSiBQQWLI0A0VFL0K7W1oRUrPJSqNO0NvTnLkBcotdlp3lKvaT0JrnyRDkzOg==}
     dependencies:
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
     dev: true
 
   /@types/tough-cookie@4.0.2:
@@ -17957,7 +17957,7 @@ packages:
       '@jest/expect': 28.1.3
       '@jest/test-result': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       chalk: 4.1.2
       co: 4.6.0
       dedent: 0.7.0
@@ -18044,6 +18044,46 @@ packages:
       - supports-color
     dev: true
 
+  /jest-config@28.1.3(@types/node@20.2.5)(ts-node@10.9.1):
+    resolution: {integrity: sha512-MG3INjByJ0J4AsNBm7T3hsuxKQqFIiRo/AUqb1q9LRKI5UU6Aar9JHbr9Ivn1TVwfUD9KirRoM/T6u8XlcQPHQ==}
+    engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
+    peerDependencies:
+      '@types/node': '*'
+      ts-node: '>=9.0.0'
+    peerDependenciesMeta:
+      '@types/node':
+        optional: true
+      ts-node:
+        optional: true
+    dependencies:
+      '@babel/core': 7.22.17
+      '@jest/test-sequencer': 28.1.3
+      '@jest/types': 28.1.3
+      '@types/node': 20.2.5
+      babel-jest: 28.1.3(@babel/core@7.22.17)
+      chalk: 4.1.2
+      ci-info: 3.8.0
+      deepmerge: 4.3.1
+      glob: 7.2.3
+      graceful-fs: 4.2.11
+      jest-circus: 28.1.3
+      jest-environment-node: 28.1.3
+      jest-get-type: 28.0.2
+      jest-regex-util: 28.0.2
+      jest-resolve: 28.1.3
+      jest-runner: 28.1.3
+      jest-util: 28.1.3
+      jest-validate: 28.1.3
+      micromatch: 4.0.5
+      parse-json: 5.2.0
+      pretty-format: 28.1.3
+      slash: 3.0.0
+      strip-json-comments: 3.1.1
+      ts-node: 10.9.1(@swc/core@1.3.83)(@types/node@15.14.9)(typescript@4.9.5)
+    transitivePeerDependencies:
+      - supports-color
+    dev: true
+
   /jest-diff@28.1.3:
     resolution: {integrity: sha512-8RqP1B/OXzjjTWkqMX67iqgwBVJRgCyKD3L9nq+6ZqJMdvjE8RgHktqZ6jNrkdMT+dJuYNI3rhQpxaz7drJHfw==}
     engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
@@ -18080,7 +18120,7 @@ packages:
       '@jest/fake-timers': 28.1.3
       '@jest/types': 28.1.3
       '@types/jsdom': 16.2.15
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       jest-mock: 28.1.3
       jest-util: 28.1.3
       jsdom: 19.0.0
@@ -18098,7 +18138,7 @@ packages:
       '@jest/environment': 28.1.3
       '@jest/fake-timers': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       jest-mock: 28.1.3
       jest-util: 28.1.3
     dev: true
@@ -18114,7 +18154,7 @@ packages:
     dependencies:
       '@jest/types': 28.1.3
       '@types/graceful-fs': 4.1.6
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       anymatch: 3.1.3
       fb-watchman: 2.0.2
       graceful-fs: 4.2.11
@@ -18184,7 +18224,7 @@ packages:
     engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
     dependencies:
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
     dev: true
 
   /jest-pnp-resolver@1.2.3(jest-resolve@28.1.3):
@@ -18243,7 +18283,7 @@ packages:
       '@jest/test-result': 28.1.3
       '@jest/transform': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       chalk: 4.1.2
       emittery: 0.10.2
       graceful-fs: 4.2.11
@@ -18329,7 +18369,7 @@ packages:
     engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
     dependencies:
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       chalk: 4.1.2
       ci-info: 3.8.0
       graceful-fs: 4.2.11
@@ -18382,7 +18422,7 @@ packages:
     dependencies:
       '@jest/test-result': 28.1.3
       '@jest/types': 28.1.3
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       ansi-escapes: 4.3.2
       chalk: 4.1.2
       emittery: 0.10.2
@@ -18394,7 +18434,7 @@ packages:
     resolution: {integrity: sha512-7vuh85V5cdDofPyxn58nrPjBktZo0u9x1g8WtjQol+jZDaE+fhN+cIvTj11GndBnMnyfrUOG1sZQxCdjKh+DKg==}
     engines: {node: '>= 10.13.0'}
     dependencies:
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true
@@ -18403,7 +18443,7 @@ packages:
     resolution: {integrity: sha512-CqRA220YV/6jCo8VWvAt1KKx6eek1VIHMPeLEbpcfSfkEeWyBNppynM/o6q+Wmw+sOhos2ml34wZbSX3G13//g==}
     engines: {node: ^12.13.0 || ^14.15.0 || ^16.10.0 || >=17.0.0}
     dependencies:
-      '@types/node': 15.14.9
+      '@types/node': 20.2.5
       merge-stream: 2.0.0
       supports-color: 8.1.1
     dev: true

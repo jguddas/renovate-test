@@ -56,7 +56,7 @@
     "scroll-into-view-if-needed": "3.0.10"
   },
   "devDependencies": {
-    "framer-motion": "^10.15.1",
+    "framer-motion": "10.16.4",
     "react-lorem-component": "0.13.0",
     "@nextui-org/card": "workspace:*",
     "@nextui-org/input": "workspace:*",
@@ -64,7 +64,7 @@
     "@nextui-org/button": "workspace:*",
     "@nextui-org/shared-icons": "workspace:*",
     "clean-package": "2.2.0",
-    "react": "^18.0.0"
+    "react": "18.2.0"
   },
   "clean-package": "../../../clean-package.config.json"
 }
