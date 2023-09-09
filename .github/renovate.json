@@ -2,7 +2,6 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
     "config:base",
-    "packages:jsTest",
     ":automergeStableNonMajor",
     ":automergeLinters",
     ":automergeTesters",
@@ -14,6 +13,10 @@
   "labels": ["dependencies"],
   "automerge": true,
   "packageRules": [
+    {
+      "extends": "packages:jsTest",
+      "groupName": "JS test packages"
+    },
     {
       "matchPackagePrefixes": ["@react-aria/", "@react-types/", "@react-stately/"],
       "groupName": "react-aria monorepo"
