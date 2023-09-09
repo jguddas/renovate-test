@@ -10,7 +10,7 @@ permissions:
 jobs:
   generate-changeset:
     runs-on: ubuntu-latest
-    if: github.actor == 'renovate[bot]' && github.repository == 'jguddas/renovate-test'
+    if: "github.actor == 'renovate[bot]' && github.repository == 'jguddas/renovate-test' && github.event.pull_request.title != 'fix(deps): pin dependencies'"
     steps:
       - name: Checkout
         uses: actions/checkout@v3
