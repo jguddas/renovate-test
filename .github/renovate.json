@@ -16,6 +16,9 @@
     {
       "matchPackagePatterns": ["@react-aria", "@react-types", "@react-stately"],
       "groupName": "react-aria monorepo"
+    },
+    {
+      "matchPackagePrefixes": ["@typescript-eslint/", "eslint", "prettier"]
     }
   ],
   "prConcurrentLimit": 2
