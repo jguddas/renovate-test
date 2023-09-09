@@ -16,6 +16,7 @@
   "packageRules": [
     {
       "extends": "packages:jsTest",
+      "matchPackagePrefixes": ["@types/testing-library"],
       "groupName": "testing packages"
     },
     {
