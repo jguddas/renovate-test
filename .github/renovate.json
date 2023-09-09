@@ -19,7 +19,13 @@
       "groupName": "react-aria monorepo"
     },
     {
-      "matchPackagePrefixes": ["@typescript-eslint/", "@commitlint/", "eslint", "prettier"],
+      "matchPackagePrefixes": [
+        "@typescript-eslint/",
+        "@commitlint/",
+        "commitlint",
+        "eslint",
+        "prettier"
+      ],
       "groupName": "linting packages"
     },
     {
