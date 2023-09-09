@@ -54,7 +54,7 @@
     "@react-stately/overlays": "^3.6.2",
     "@react-aria/focus": "^3.14.1",
     "@react-types/overlays": "^3.8.2",
-    "react-remove-scroll": "^2.5.6"
+    "react-remove-scroll": "2.5.6"
   },
   "devDependencies": {
     "@nextui-org/input": "workspace:*",
@@ -62,9 +62,9 @@
     "@nextui-org/button": "workspace:*",
     "@nextui-org/link": "workspace:*",
     "react-lorem-component": "0.13.0",
-    "framer-motion": "^10.15.1",
+    "framer-motion": "10.16.4",
     "clean-package": "2.2.0",
-    "react": "^18.0.0"
+    "react": "18.2.0"
   },
   "clean-package": "../../../clean-package.config.json"
 }
