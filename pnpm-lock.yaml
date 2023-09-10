@@ -220,8 +220,8 @@ importers:
         specifier: 2.9.3
         version: 2.9.3(typescript@4.9.5)
       plop:
-        specifier: 3.1.1
-        version: 3.1.1
+        specifier: 3.1.2
+        version: 3.1.2
       prettier:
         specifier: 2.8.8
         version: 2.8.8
@@ -21522,8 +21522,8 @@ packages:
       find-up: 5.0.0
     dev: true
 
-  /plop@3.1.1:
-    resolution: {integrity: sha512-NuctKmuNUACXBQn25bBr5oj/75nHxdKGwjA/+b7cVoj1sp+gTVqcc8eAr4QcNJgMPsZWRJBN2kMkgmsqbqV9gg==}
+  /plop@3.1.2:
+    resolution: {integrity: sha512-39SOtQ3WlePXSNqKqAh/QlUSHXHO25iCnyCO3Qs/9UzPVmwVledRTDGvPd2csh+JnHVXz4c63F6fBwdqZHgbUg==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
     hasBin: true
     dependencies:
