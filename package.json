@@ -106,7 +106,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "eslint-plugin-unused-imports": "2.0.0",
     "npm-check-updates": "16.13.3",
-    "intl-messageformat": "10.5.1",
+    "intl-messageformat": "10.5.2",
     "execa": "5.1.1",
     "find-up": "6.3.0",
     "fs-extra": "10.1.0",
