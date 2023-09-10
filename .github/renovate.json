@@ -4,19 +4,15 @@
     "config:base",
     "helpers:pinGitHubActionDigests",
     ":automergeStableNonMajor",
-    ":automergeLinters",
-    ":automergeTesters",
-    ":automergeTypes",
     ":combinePatchMinorReleases",
     ":pinAllExceptPeerDependencies",
     ":disableDependencyDashboard"
   ],
   "labels": ["dependencies"],
-  "automerge": true,
   "packageRules": [
     {
       "extends": "packages:jsTest",
-      "matchPackagePrefixes": ["@types/testing-library"],
+      "matchPackagePrefixes": ["@types/testing-library__"],
       "groupName": "testing packages"
     },
     {
