@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@codesandbox/sandpack-react": "2.6.9",
-    "@mapbox/rehype-prism": "0.6.0",
+    "@mapbox/rehype-prism": "0.8.0",
     "@nextui-org/aria-utils": "workspace:*",
     "@nextui-org/badge": "workspace:*",
     "@nextui-org/code": "workspace:*",
