@@ -130,7 +130,7 @@
     "rimraf": "3.0.2",
     "shelljs": "0.8.5",
     "tsup": "6.7.0",
-    "turbo": "1.10.13",
+    "turbo": "1.10.14",
     "typescript": "4.9.5",
     "webpack": "5.88.2",
     "webpack-bundle-analyzer": "4.9.1",
