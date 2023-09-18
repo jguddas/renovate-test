@@ -58,7 +58,7 @@
     "tailwind-variants": "0.1.14",
     "tailwindcss": "3.3.3",
     "@types/color": "3.0.4",
-    "@types/flat": "5.0.2",
+    "@types/flat": "5.0.3",
     "@types/lodash.foreach": "4.5.7",
     "@types/lodash.get": "4.4.7",
     "@types/lodash.kebabcase": "4.1.7",
